@@ -1,0 +1,4 @@
+# robots.txt 
+User-agent: *
+Allow: *
+Sitemap: https://quasar-plus-webpack.vercel.app/sitemap.xml
