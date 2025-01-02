@@ -2,6 +2,12 @@
 
 A Quasar Project that expands the base Quasar demo admin dashboard project with a landing page and additional feature implementations. This project leverages the Quasar Framework to build a responsive web application with a focus on ease of development and scalability.
 
+## Related Projects
+
+- Part of https://quapp.dev/ Quickstart SaaS Dev Kits , which is an implementation of this project
+- Accelerate Your SaaS Development
+- Build Faster, Scale Seamlessly with Quasar + Appwrite
+
 ## Features
 
 - **Landing Page**: A visually appealing landing page to attract users.
@@ -49,12 +55,6 @@ quasar build
 
 ## Author
 - quapp@sonicviz.com
-
-## Related Projects
-
-Part of https://quapp.dev/ Quickstart SaaS Dev Kits
-Accelerate Your SaaS Development
-Build Faster, Scale Seamlessly with Quasar + Appwrite
 
 ## Acknowledgements
 - Quasar Framework
